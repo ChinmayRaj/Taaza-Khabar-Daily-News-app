@@ -4,8 +4,8 @@ Website link- https://66ca1b13bab98821d33990b2--lively-kulfi-7b21b4.netlify.app/
 Api Reference - https://github.com/SauravKanchan/NewsAPI
 
 
-Api links- https://saurav.tech/NewsAPI/top-headlines/category/health/in.json
-           https://saurav.tech/NewsAPI/everything/cnn.json
+Api links- https://saurav.tech/NewsAPI/top-headlines/category/health/in.json,
+           https://saurav.tech/NewsAPI/everything/cnn.json,
            https://saurav.tech/NewsAPI/sources.json
 
 
